@@ -36,7 +36,7 @@ OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explo
 
 #### License
 
-This project is licensed under the BSD 3-Clause License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
 
 #### Acknowledgements
 

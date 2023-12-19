@@ -1,0 +1,17 @@
+{
+  "name": "orbitvista",
+  "version": "1.0.0",
+  "description": "OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explore the far reaches of our solar system as OrbitVista provides dynamic updates and key data points from the iconic Voyager spacecraft, offering a captivating journey through space exploration.",
+  "main": "src/orbitvista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/orbitvista.js"
+  },
+  "keywords": ["space", "NASA", "Voyager", "exploration"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
+

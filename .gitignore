@@ -12,12 +12,10 @@ localpycs/
 *.pyc
 *.pkg
 #*.txt
-*.html
+#*.html
 *.toc
 *.zip
-*.pdf
 *.tar.gz
 *.pyz
-*.sh
-*.css
+#*.css
 

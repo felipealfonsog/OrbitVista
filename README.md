@@ -7,9 +7,9 @@ OrbitVista: Your cosmic guide to real-time insights on the Voyager probes. Explo
 <sub>* This is currently an experimental phase where the primary focus is on making the system functional and establishing a practical and logical pathway that aligns with both my vision and the project's goals. It might contain errors, bugs, etc. Many other non-core elements of the project are considered secondary.</sub>
 
 <!--
-![Version](https://img.shields.io/github/release/felipealfonsog/TermPDFViewer.svg?style=flat&color=blue)
+![Version](https://img.shields.io/github/release/felipealfonsog/OrbitVista.svg?style=flat&color=blue)
 -->
-![Main Language](https://img.shields.io/github/languages/top/felipealfonsog/TermPDFViewer.svg?style=flat&color=blue)
+![Main Language](https://img.shields.io/github/languages/top/felipealfonsog/OrbitVista.svg?style=flat&color=blue)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
 
 

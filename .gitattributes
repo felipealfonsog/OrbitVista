@@ -1,0 +1,7 @@
+# Set Python as the language for files with .py extension
+*.js linguist-language=JavaScript
+
+# Set HTML as the language for files with .html extension
+*.html linguist-language=JavaScript
+*.css linguist-language=JavaScript
+
